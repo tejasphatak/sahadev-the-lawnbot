@@ -8,28 +8,6 @@
 > automation. No warranty — see [LICENSE](LICENSE). Bugs and rough edges expected;
 > please file issues.
 
-```
-                 \    |    /
-                  \   |   /
-                   \  |  /
-                ----( * )----
-                   /  |  \
-                  /   |   \
-                 /    |    \
-
-
-                       ____
-                   ___/    \___
-                  /  __________ \
-                 |  |__________| |        ← hand flat across the brow
-                 |        o       |       ← one eye peering up
-                 |        ◡       |       ← faint smile
-                  \______________/
-                      __|  |__
-                     /        \           ← shoulders
-                    /          \
-```
-
 > **"asmaan saaf hai, do din tak badal nazar nahi aaenge."**
 > *the sky is clear — no clouds for the next two days*
 > — Sahadev, *Swades* (2004)

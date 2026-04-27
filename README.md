@@ -66,8 +66,8 @@ Total: 20 min across 2 zones · Soil moisture · Zone 4: 28%  ·  Zone 5: 24%
 ## Quickstart
 
 ```bash
-git clone https://github.com/tejasphatak/sahadev-the-lawnbot.git sprinkler-ai
-cd sprinkler-ai && ./install.sh           # venv + deps + interactive config wizard
+git clone https://github.com/tejasphatak/sprinker-ai.git
+cd sprinker-ai && ./install.sh            # venv + deps + interactive config wizard
 .venv/bin/sprinkler-ai --dry-run          # test — never touches the controller
 ```
 

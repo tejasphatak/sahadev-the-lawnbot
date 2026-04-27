@@ -9,20 +9,26 @@
 > please file issues.
 
 ```
-            \   |   /
-             \  |  /
-              \ | /
-          -----(*)-----
-              / | \
-             /  |  \
-            /   |   \
+       \    |    /
+        \   |   /
+         \  |  /
+      -----( * )-----        ← clear sun, asmaan saaf hai
+         /  |  \
+        /   |   \
+       /    |    \
 
-                  o
-                 /|\
-                / | \
-                  |
-                 / \
-                /   \
+              ____
+          ___/    \___        ← bent arm
+         /   ______   \
+        |   /      \   |      ← hand cupped at brow
+        |   \  ^^  /         ← eyes squinting up at the sky
+        |    \____/
+        |       |
+        |    __ |              ← chin / faint smile
+         \  /   |
+          \/____|
+         __|    |__            ← shoulders / upper chest
+        /          \
 ```
 
 > **"asmaan saaf hai, do din tak badal nazar nahi aaenge."**

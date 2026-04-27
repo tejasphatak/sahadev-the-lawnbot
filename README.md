@@ -23,13 +23,11 @@
                   |
                  / \
                 /   \
-
-      "asmaan saaf hai, do din tak
-       badal nazar nahi aaenge."
-                       — Sahadev
-        (the sky is clear, no clouds
-         for the next two days)
 ```
+
+> **"asmaan saaf hai, do din tak badal nazar nahi aaenge."**
+> *the sky is clear — no clouds for the next two days*
+> — Sahadev, *Swades* (2004)
 
 ## What it does
 
